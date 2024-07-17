@@ -2,11 +2,15 @@
 
 ## Overview
 Alien Invasion is a 2D game where players control a spaceship to fend off waves of aliens. The game includes scoring, levels, and a high score feature.
+![Screenshot from 2024-07-17 23-14-02](https://github.com/user-attachments/assets/acb69310-39a7-4a76-bc52-5578ebd91e60)
+![Screenshot from 2024-07-17 23-14-37](https://github.com/user-attachments/assets/222ad516-d91b-42c5-bfef-9cd3ab7fc574)
+
 
 ## How to Run
 
 1. **Download the Code:**
     - Download the code as a zip file and extract it.
+
 
 2. **Install Dependencies:**
     - Ensure you have Python installed.
