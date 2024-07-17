@@ -40,7 +40,7 @@ You can download the latest version of the executable [here](https://github.com/
 
 - **Move Ship:** Use arrow keys (left/right) to move the ship.
 - **Fire Bullets:** Press the space bar to shoot bullets.
-- **Quit:** Use Q key to Qit game.
+- **Quit:** Use Q key to Quit game.
 
 ## Adjusting Game Settings
 
